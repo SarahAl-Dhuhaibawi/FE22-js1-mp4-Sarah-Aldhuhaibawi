@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  margin-top: 70px;
+  font-size: large;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url(../images/sea.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+button {
+  height: 35px;
+  width: 150px;
+  border-radius: 10px;
+  background: linear-gradient(45deg, rgb(0, 219, 222), #ff6200);
+  border: none;
+  gap: 10px;
+}
+
+h1 {
+  padding: 50px;
+  color: rgb(49, 55, 55);
+}
+
+p {
+  color: #bea8a3;
+}
+h3 {
+  margin-top: 60px;
+  color: #00dbde;
+}
+
+#html {
+  color: #ff6200;
+}
+
+#script {
+  color: #d5cb0b;
+}
+#css {
+  color: #00dbde;
+}
